@@ -9,7 +9,7 @@ Using an NPM module, [expression-parser](https://www.npmjs.com/package/@estilles
 > <br/>process.agrv is used to accept arguments from the command-line
 
 
-To run the program, kindly use `node index.js <arg>`
+To run the program, kindly use `node index.js "<arg>"`
 
 * The program checks frist if the argument given is a single argument.
 * If the argument is non-singular, the program will display a message `This program only accepts a SINGLE arguement`.
